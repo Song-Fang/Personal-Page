@@ -175,7 +175,7 @@ class Home extends Component {
                                     <li>Using content management system ( Wix ) to reconstruct, design and develop user-friendly websites</li>
                                     <li>Adjusted the CSS, JavaScript to configure different style and views of themes for websites</li>
                                     <li>Add new functionalities such as donation portal, Commodities purchase, Social networks synchronization etc.</li>
-                                    <li>Agilely Communicated with cl ients a bout their feedback and solve website issues every week</li>
+                                    <li>Agilely Communicated with clients about their feedback and solve website issues every week</li>
                                 </ul>
                             </a>
                             </div>
@@ -222,7 +222,7 @@ class Home extends Component {
                                 </a>
 
                             </div>
-                            </Fade>  
+                            </Fade>
                         </div>
                     </div>
                     <div className='content-item'>
