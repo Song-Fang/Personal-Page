@@ -15,8 +15,8 @@ class Header extends Component {
       <div className='header-wrapper'>
         <div className='nav-wrapper'>
               <Link to='/' className='nav-item'>Home</Link>
-              <a href='/#education' className='nav-item'>Course</a>
-              <a href='/#Experience' className='nav-item'>Projects</a>
+              <a href='/Personal-Page/#education' className='nav-item'>Course</a>
+              <a href='/Personal-Page/#Experience' className='nav-item'>Projects</a>
 
         </div>
         <div className='social-wrapper'>
