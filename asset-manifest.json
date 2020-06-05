@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Personal-Page/static/css/main.99658e7c.chunk.css",
+    "main.js": "/Personal-Page/static/js/main.b8badbb2.chunk.js",
+    "main.js.map": "/Personal-Page/static/js/main.b8badbb2.chunk.js.map",
+    "runtime-main.js": "/Personal-Page/static/js/runtime-main.b2194ece.js",
+    "runtime-main.js.map": "/Personal-Page/static/js/runtime-main.b2194ece.js.map",
+    "static/js/2.5f731b6d.chunk.js": "/Personal-Page/static/js/2.5f731b6d.chunk.js",
+    "static/js/2.5f731b6d.chunk.js.map": "/Personal-Page/static/js/2.5f731b6d.chunk.js.map",
+    "index.html": "/Personal-Page/index.html",
+    "precache-manifest.7ce63ffcd00fc222ab7755f056733a2b.js": "/Personal-Page/precache-manifest.7ce63ffcd00fc222ab7755f056733a2b.js",
+    "service-worker.js": "/Personal-Page/service-worker.js",
+    "static/css/main.99658e7c.chunk.css.map": "/Personal-Page/static/css/main.99658e7c.chunk.css.map",
+    "static/js/2.5f731b6d.chunk.js.LICENSE.txt": "/Personal-Page/static/js/2.5f731b6d.chunk.js.LICENSE.txt",
+    "static/media/HIT.gif": "/Personal-Page/static/media/HIT.522ff665.gif",
+    "static/media/PITT.png": "/Personal-Page/static/media/PITT.c92318e9.png",
+    "static/media/Profile1.jpg": "/Personal-Page/static/media/Profile1.6418195d.jpg",
+    "static/media/Profile2.jpg": "/Personal-Page/static/media/Profile2.d98fd057.jpg",
+    "static/media/Quora.png": "/Personal-Page/static/media/Quora.7b3272a1.png",
+    "static/media/SongFang.jpg": "/Personal-Page/static/media/SongFang.c9017097.jpg",
+    "static/media/aws.png": "/Personal-Page/static/media/aws.626953c1.png",
+    "static/media/backImage.png": "/Personal-Page/static/media/backImage.50dc7770.png",
+    "static/media/email.png": "/Personal-Page/static/media/email.863addeb.png",
+    "static/media/github.png": "/Personal-Page/static/media/github.07ea0bed.png",
+    "static/media/java.png": "/Personal-Page/static/media/java.530b6f98.png",
+    "static/media/javascript.png": "/Personal-Page/static/media/javascript.d552a8f8.png",
+    "static/media/js.png": "/Personal-Page/static/media/js.e068a7fe.png",
+    "static/media/mongodb.png": "/Personal-Page/static/media/mongodb.70353f9a.png",
+    "static/media/mysql.png": "/Personal-Page/static/media/mysql.adaf8773.png",
+    "static/media/neo4j.png": "/Personal-Page/static/media/neo4j.2ac89ae4.png",
+    "static/media/phone.png": "/Personal-Page/static/media/phone.5d90faf9.png",
+    "static/media/react.png": "/Personal-Page/static/media/react.2e3aebfa.png",
+    "static/media/redux.jpg": "/Personal-Page/static/media/redux.423b9c41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2194ece.js",
+    "static/js/2.5f731b6d.chunk.js",
+    "static/css/main.99658e7c.chunk.css",
+    "static/js/main.b8badbb2.chunk.js"
+  ]
+}
