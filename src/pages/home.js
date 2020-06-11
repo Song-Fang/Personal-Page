@@ -147,7 +147,7 @@ class Home extends Component {
                                 <ul>
                                     <li>Utilized relational database <b>PostgreSQL</b> & NoSQL database <b>MongoDB</b>, <b>Neo4j</b> to load 3 million accidents data</li>
                                     <li>Used <b>Spring data JPA</b> to construct distributed DB system and build backend server via <b>spring boot framwork</b></li>
-                                    <li>Used<b>Spring security</b> and <b>JWT</b> for Authent ication&Authorization and implemented <b>CRUD</b> function</li>
+                                    <li>Used <b>Spring security</b> and <b>JWT</b> for Authent ication&Authorization and implemented <b>CRUD</b> function</li>
                                     <li>Builded an interactive UI embellished with <b>Bootstrap</b>. Visualized accidents in per state, per city in US map, accidents number by humidity, visibility using <b>ECharts</b></li>
 
 
@@ -202,6 +202,51 @@ class Home extends Component {
 
                             </div>
                             </Fade>
+
+                            <Fade bottom duration={1000} delay={750} when={this.state.exp4Scroll}>
+                                <div className='exp-item' ref={ref => this.exp4 = ref}>
+                                <a href='#'>
+                                    <div className='title'>
+                                        <div className='left'>
+                                            <div className='comp'>Clinic Reminder System Project</div>
+                                            <div className='job'>Spring boot, Spring data JPA, MySQL, WebSocket</div>
+                                        </div>
+                                        <div className='right'>
+                                            <p>Feb.2019 – May.2019</p>
+                                        </div>
+                                    </div>
+                                    <ul>
+                                        <li>Developed a web health platform which helps doctors and patients manage their clinical reminders</li>
+                                        <li>Built the server and <b>Restful API</b> by using <b>Spring Boot</b>, <b>Spring data JPA</b>, and <b>MySQL</b> to handle http traffic between client and server, realized main logic functions including doctors posting new reminders in dashboard, patients receiving reminders and updating the status of the instructions etc.</li>
+                                        <li>Used <b>WebSocket</b> to enable a real time message transmission between doctors and patients</li>
+                                    </ul>
+                                </a>
+
+                            </div>
+                            </Fade>
+
+                            <Fade bottom duration={1000} delay={750} when={this.state.exp4Scroll}>
+                                <div className='exp-item' ref={ref => this.exp4 = ref}>
+                                <a href='#'>
+                                    <div className='title'>
+                                        <div className='left'>
+                                            <div className='comp'>Task Management Web Application</div>
+                                            <div className='job'>React.js, Spring boot, Spring Security, MySQL</div>
+                                        </div>
+                                        <div className='right'>
+                                            <p>Sept.2019 – Dec.2019</p>
+                                        </div>
+                                    </div>
+                                    <ul>
+                                        <li>Built <b>CRUD</b> Restful API for users’ project and recorded users’ project task progress by priorities&phases</li>
+                                        <li>Utilized <b>React</b>, <b>Redux</b> and send ajax request to interact with server side</li>
+                                        <li>Implemented <b>sign up</b>, <b>login</b>, protecting router by using Spring Security; Present a friendly UI with Bootstrap</li>
+                                    </ul>
+                                </a>
+
+                            </div>
+                            </Fade>
+
                             <Fade bottom duration={1000} delay={750} when={this.state.exp4Scroll}>
                                 <div className='exp-item' ref={ref => this.exp4 = ref}>
                                 <a href='#'>
